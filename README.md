@@ -35,7 +35,7 @@ python intricate_style.py silhouettes/unicorn.jpg style/color_pattern3.jpg resul
 Both background color and image cannot be given at the same time. If background image is given, it takes precedent.
 
 
-Reference:
+### References:
 
 - Leon A. Gatys, Alexander S. Ecker, Matthias Bethge. A Neural Algorithm of Artistic Style. 2015. https://arxiv.org/abs/1508.06576
 - Roman Novak and Yaroslav Nikulin. Improving the Neural Algorithm of Artistic Style. 2016. https://arxiv.org/abs/1605.04603
