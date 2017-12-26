@@ -1,6 +1,6 @@
 ## Creating Intricate Art with Neural Style Transfer
 
-This repository contains code and example images to generate intricate art designs. The corresponding blog article that goes along with this code is found here:
+This repository contains code and example images to generate intricate art designs. The corresponding blog article that goes along with this code is found here: https://medium.com/@kramea/creating-intricate-art-with-neural-style-transfer-e5fee5f89481
 
 In order to run the python program, the following arguments are required:
 
