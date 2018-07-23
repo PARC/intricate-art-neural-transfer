@@ -367,7 +367,7 @@ loss = K.variable(0.)
 layer_features = outputs_dict[args.content_layer]
 base_image_features = layer_features[0, :, :, :]
 combination_features = layer_features[nb_tensors - 1, :, :, :]
-loss += content_weight * content_loss(base_image_features,
+loss = loss + content_weight * content_loss(base_image_features,
                                       combination_features)
 # Improvement 2
 # Use all layers for style feature extraction and reconstruction
