@@ -1,0 +1,2 @@
+env: tensorflow-1.8
+machine: cpu
