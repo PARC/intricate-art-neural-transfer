@@ -2,6 +2,14 @@
 
 This repository contains code and example images to generate intricate art designs. The corresponding blog article that goes along with this code is found here: https://medium.com/@kramea/creating-intricate-art-with-neural-style-transfer-e5fee5f89481
 
+### Try it now
+
+[![Run on FloydHub](https://static.floydhub.com/button/button.svg)](https://floydhub.com/run)
+
+Click this button to open a Workspace on FloydHub to run this code.
+
+### Details
+
 In order to run the python program, the following arguments are required:
 
 - content image (found in silhouettes folder)
